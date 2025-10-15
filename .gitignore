@@ -210,4 +210,5 @@ __marimo__/
 .venv
 ./modulo3/credentials.json
 .info.txt
+./modulo3/asistente_legal_RAG/config.py
 >>>>>>> dcc8dce (Proyecto 1 y Contenido 2)
