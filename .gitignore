@@ -208,4 +208,6 @@ marimo/_lsp/
 __marimo__/
 =======
 .venv
+./modulo3/credentials.json
+.info.txt
 >>>>>>> dcc8dce (Proyecto 1 y Contenido 2)

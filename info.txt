@@ -1,0 +1,8 @@
+Deep hands-on fluency with the modern AI development stack, including Cursor, LLMs, and AI agent frameworks (e.g., OpenCode, Aider, Void).
+Strong experience integrating, debugging, and monitoring LLMs in real-world applications, including prompt engineering, cost optimization, latency management, and evaluation frameworks.
+Proficiency in designing and developing APIs (REST, GraphQL), databases (PostgreSQL), and user-facing services.
+Solid experience in building, deploying, and scaling AI/ML solutions in production environments.
+Familiarity with evaluation frameworks for AI features (e.g., Langfuse, Helicone, Lunary).
+Ability to work through new and difficult issues and contribute to libraries as needed.
+Ability to create and maintain continuous integration and delivery of applications.
+Forensic attention to detail
