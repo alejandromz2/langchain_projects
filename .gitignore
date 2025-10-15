@@ -212,3 +212,5 @@ __marimo__/
 .info.txt
 ./modulo3/asistente_legal_RAG/config.py
 >>>>>>> dcc8dce (Proyecto 1 y Contenido 2)
+modulo3/token.json
+modulo3/credentials.json
